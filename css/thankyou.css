@@ -1,0 +1,48 @@
+body {
+  background-color: black;
+  margin: 0 auto;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  font-family: "Overpass", sans-serif;
+}
+.desktop {
+  width: 17%;
+  height: 100%;
+  margin: 15% auto;
+  background-color: #303841;
+  padding: 20px;
+  border-radius: 15px;
+}
+.mobile {
+  width: 20%;
+}
+#img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#select{
+    color: #F0A500;
+    text-align: center;
+    font-size: 13px;
+    margin: 25px 0;
+    padding: 5px 5px;
+    border-radius: 20px;
+    background-color: #47555E;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text{
+    color: white;
+    text-align: center;
+    line-height: 1.5;
+}
+#thank{
+    font-weight: bold;
+    margin-bottom: 0;
+}
+#we{
+    font-size: 12px;
+}
